@@ -16,7 +16,7 @@ body
 }
 </style>
 
-<body>
+<div class="body">
 
 <center>
 <pre>
@@ -70,4 +70,4 @@ body
 </pre>
 </center>
 
-</body>
+</div>
