@@ -45,7 +45,7 @@
 ┣──────────┻──────────────────┻─┻──┻┻┻──┫
 │Autonomous - Anonym - Open - Infectious│
 ┣───────────────────────────────────────┫
- <a href="demo">Demo</a>  <a href="https://github.com/OpenSharedNetwork-com/main">Contribute</a> <a href="https://github.com/OpenSharedNetwork-com/discussions/discussions">Discuss</a> <a href="demo">Invest</a>
+ <a href="demo">Demo</a> <a href="https://github.com/OpenSharedNetwork-com/main">Contribute</a> <a href="https://github.com/OpenSharedNetwork-com/discussions/discussions">Discuss</a> <a href="demo">Invest</a>
 ┗───────────────────────────────────────┛
 </pre>
 </center>
