@@ -1,23 +1,3 @@
-<style>
-body
-{
-   	background-color: var(--bg);
-  	font-size: 17px;
-        line-height: 1.11;
-   	font-family: var(--font2); 
-   	color: var(--color1); 
-    	text-align: left;
-	padding-left:10px;
-	padding-right:10px;
-        margin: auto;
-        margin-top: 0px;
-        max-width: 45ch;
-  	text-shadow: 1px 1px 0px  var(--color4);
-}
-</style>
-
-<div class="body">
-
 <center>
 <pre>
         █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█          
@@ -70,4 +50,3 @@ body
 </pre>
 </center>
 
-</div>
