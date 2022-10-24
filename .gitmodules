@@ -1,0 +1,3 @@
+[submodule "APP/aredn"]
+	path = APP/aredn
+	url = https://github.com/aredn/aredn
