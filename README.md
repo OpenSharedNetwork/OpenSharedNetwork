@@ -1,3 +1,5 @@
+<a href="https://bestpractices.coreinfrastructure.org/projects/6604"><img src="https://bestpractices.coreinfrastructure.org/projects/6604/badge"></a> 
+
 <center>
 <pre>
         █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█          
@@ -49,4 +51,3 @@
 ┗───────────────────────────────────────┛
 </pre>
 </center>
-<a href="https://bestpractices.coreinfrastructure.org/projects/6604"><img src="https://bestpractices.coreinfrastructure.org/projects/6604/badge"></a> 
