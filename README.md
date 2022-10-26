@@ -49,4 +49,4 @@
 ┗───────────────────────────────────────┛
 </pre>
 </center>
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6604/badge)](https://bestpractices.coreinfrastructure.org/projects/6604)
+<a href="https://bestpractices.coreinfrastructure.org/projects/6604"><img src="https://bestpractices.coreinfrastructure.org/projects/6604/badge"></a> 
