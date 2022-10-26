@@ -45,8 +45,8 @@
 ┣─█ █─█▀▀  █──█▄█ █ █─█▀▄ █▀▄ ┏─╋┻─┓ ┣─┳┫
 │ ▀ ▀ ▀▀▀  █  ▀ ▀ ▀▀▀ ▀ ▀ ▀ ▀ │▓╋──╋┓│ █│
 ┣──────────┻──────────────────┻─┻──┻┻┻──┫
-│Autonomous - Anonym - Open - Infectious│
-┣───────────────────────────────────────┫
+│   T H E   N E X T   I N T E R N E T   │
+┣───┻─────────────┻───┻───┻─────────┻───┫
    <a href="https://opensharednetwork.com/">Demo</a>   <a href="https://github.com/OpenSharedNetwork/OpenSharedNetwork">Contribute</a>   <a href="https://github.com/OpenSharedNetwork/OpenSharedNetwork/discussions">Discuss</a>   <a href="demo">Invest</a> 
 ┗───────────────────────────────────────┛
 </pre>
