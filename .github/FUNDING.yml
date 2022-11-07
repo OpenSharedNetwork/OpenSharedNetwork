@@ -10,4 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: OpenSharedNetwork
 otechie: # Replace with a single Otechie username
 lfx_crowdfunding: a8f73595-0093-44fa-9c5d-c2de6ed20a0b
-custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom:  ['link1', 'link2']
